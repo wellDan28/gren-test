@@ -1,8 +1,22 @@
 # Change Log
 
-## [Unreleased](https://github.com/wellDan28/gren-test/tree/HEAD)
+## [v1.31.1](https://github.com/wellDan28/gren-test/tree/v1.31.1) (2018-01-22)
+[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.32.0...v1.31.1)
 
-[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.30.0...HEAD)
+**Merged pull requests:**
+
+- Add users.md [\#19](https://github.com/wellDan28/gren-test/pull/19) ([wellDan28](https://github.com/wellDan28))
+
+## [v1.32.0](https://github.com/wellDan28/gren-test/tree/v1.32.0) (2018-01-22)
+[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.31.0...v1.32.0)
+
+**Merged pull requests:**
+
+- Add integrations test [\#18](https://github.com/wellDan28/gren-test/pull/18) ([wellDan28](https://github.com/wellDan28))
+- Add greeting [\#17](https://github.com/wellDan28/gren-test/pull/17) ([wellDan28](https://github.com/wellDan28))
+
+## [v1.31.0](https://github.com/wellDan28/gren-test/tree/v1.31.0) (2018-01-22)
+[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.30.0...v1.31.0)
 
 **Merged pull requests:**
 
@@ -12,7 +26,7 @@
 [Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.29.0...v1.30.0)
 
 ## [v1.29.0](https://github.com/wellDan28/gren-test/tree/v1.29.0) (2018-01-21)
-[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.26.0...v1.29.0)
+[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.27.0...v1.29.0)
 
 **Merged pull requests:**
 
@@ -20,17 +34,17 @@
 - apple image [\#14](https://github.com/wellDan28/gren-test/pull/14) ([wellDan28](https://github.com/wellDan28))
 - add do something [\#13](https://github.com/wellDan28/gren-test/pull/13) ([wellDan28](https://github.com/wellDan28))
 
-## [v1.26.0](https://github.com/wellDan28/gren-test/tree/v1.26.0) (2018-01-17)
-[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.25.0...v1.26.0)
-
-## [v1.25.0](https://github.com/wellDan28/gren-test/tree/v1.25.0) (2018-01-17)
-[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.27.0...v1.25.0)
-
 ## [v1.27.0](https://github.com/wellDan28/gren-test/tree/v1.27.0) (2018-01-17)
 [Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.28.0...v1.27.0)
 
 ## [v1.28.0](https://github.com/wellDan28/gren-test/tree/v1.28.0) (2018-01-17)
-[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.24.0...v1.28.0)
+[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.25.0...v1.28.0)
+
+## [v1.25.0](https://github.com/wellDan28/gren-test/tree/v1.25.0) (2018-01-17)
+[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.26.0...v1.25.0)
+
+## [v1.26.0](https://github.com/wellDan28/gren-test/tree/v1.26.0) (2018-01-17)
+[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.24.0...v1.26.0)
 
 ## [v1.24.0](https://github.com/wellDan28/gren-test/tree/v1.24.0) (2018-01-17)
 [Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.22.0...v1.24.0)
@@ -63,13 +77,13 @@
 - add f.js and g.js [\#7](https://github.com/wellDan28/gren-test/pull/7) ([wellDan28](https://github.com/wellDan28))
 
 ## [v1.14.0](https://github.com/wellDan28/gren-test/tree/v1.14.0) (2018-01-15)
-[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.12.0...v1.14.0)
-
-## [v1.12.0](https://github.com/wellDan28/gren-test/tree/v1.12.0) (2018-01-15)
-[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.13.0...v1.12.0)
+[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.13.0...v1.14.0)
 
 ## [v1.13.0](https://github.com/wellDan28/gren-test/tree/v1.13.0) (2018-01-15)
-[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.11.0...v1.13.0)
+[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.12.0...v1.13.0)
+
+## [v1.12.0](https://github.com/wellDan28/gren-test/tree/v1.12.0) (2018-01-15)
+[Full Changelog](https://github.com/wellDan28/gren-test/compare/v1.11.0...v1.12.0)
 
 **Merged pull requests:**
 
